@@ -1,0 +1,44 @@
+Lecture 2:
+
+Types of Testing:
+1)Manual:
+ -> Web Testing
+ -> App Testing
+ -> Desktop Software Testing
+
+2)Automation
+
+What is Testing:
+-> Testing is a process used to identify correctness,completeness 
+and quality of developed computer software
+
+-> Testing is the process of evaluating a system or its component(s) 
+to determine whether it satisfies the specified requirements
+
+-> Using Testing You can Evaluate and check there is any defect
+or not
+
+Why Testing is necessary?:
+-> Testing is necessary because weall make mistakes.
+-> Some of those mistakes are unimportant, but some of them are
+   expensive or dangerous.
+
+
+When to Start Testing?
+-> Once Development is completed after that we can start testing
+-> if we started this earlier early testing/static testing
+
+When to Stop Testing?
+-> Mostly Bug Solved
+-> If Client Budget Exhausted
+-> If Project Deadline is over
+-> If Company Says Stop
+
+
+SDLC -> [Software Development Lifecycle]
+1)Requirement Gathering
+2)Analysis
+3)Designing
+4)Implementation
+5)Testing
+6)Maintenance
