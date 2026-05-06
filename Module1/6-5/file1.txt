@@ -1,0 +1,102 @@
+OOP -> Object Oriented Programming
+
+Smalltalk : 1972-1980
+➢ Founder of Alan Kay
+➢ C++ : 1986, Bjarne Stroustrup Java(Oak) : 1992 (Smalltalk + C++)
+
+Features of OOP
+1)object : Any Entity Which has own state and behaviour
+ex:pen,paper,chair etc..
+
+2)class : collection of objects
+ex: human body
+
+3)abstraction : hiding internal details and showing functionalities
+ex:fb login page
+
+4)encapsulation : Wrapping up of data or binding of data
+ex: capsule
+
+5)inheritance : When one object acquire all the properties
+and behaviour of parent class
+ex: father - son
+
+6)polymorphism : Many ways to perform anything
+ex: road ways
+method overloading
+method overriding
+
+Product & Project Based Application
+
+-> A software application that is developed by a company with its own budget. The
+   requirements are driven by market surveys. The developed product is then sold to different customers
+   with licenses.
+
+
+-> A software application that is developed by a company with the budget from a customer.
+   In fact, the customer gives order to developsome software that helps him in his business. Here, the
+   requirements come from the customer
+
+---------------------------------------------------------------------------
+What is Testing?
+
+-> Testing is a process used to identify correctness,completeness and quality of 
+developed computer software
+
+------------------------------------------------------------------------------
+SDLC -> Software development Lifecycle
+
+1)requirement gathering :
+-> you have to collect requirements from client
+-> Types of Requirement
+   1)functional requirement
+   2)non-functional requirement
+-> written format,diagram,table
+
+
+
+2)analysis :
+-> what
+-> how
+
+
+
+3)designing :
+-> According to requirement designer will design this
+
+4)implementation(coding)
+-> programmer will develop this
+
+5)testing :
+-> Product Quality
+for ex:
+Regression Testing 
+Internal Testing 
+Unit Testing
+Application Testing 
+Stress Testing
+
+
+6)maintenance : 
+ -> corrective maintenance : correct
+ -> adaptive maintenance : when you develop it on 2nd platform
+ -> perfective maintenance : when you want to make it perfect
+
+SDLC Models:
+1)waterfall model
+2)iterative model
+3)spiral model
+4)agile model
+Another Model is V-Model
+
+
+SRS
+Diagram
+
+
+
+
+
+
+
+
