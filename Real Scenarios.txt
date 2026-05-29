@@ -1,0 +1,14 @@
+2. A customer is unable to add products to the cart. What could be the cause, and how would you verify it?
+Purpose: Tests how the candidate would approach issues related to shopping cart functionality (e.g., cookies, session management, cart limit, product availability).
+
+3. The payment gateway is not working, and the customer cannot make a purchase. How would you investigate and resolve the issue?
+Purpose: Tests the candidate's knowledge of payment integration, third-party services, and troubleshooting payment failures (e.g., incorrect payment details, gateway downtime, security issues).
+
+4. The product page is not loading correctly for certain customers. What steps would you take to diagnose this?
+Purpose: Assesses the candidate's ability to troubleshoot issues related to page rendering, such as JavaScript errors, broken images, or connectivity problems.
+
+5. A customer reports that they are seeing outdated product prices. How would you go about diagnosing and fixing this?
+Purpose: Checks the candidate’s approach to data synchronization issues, which could be related to caching, database updates, or UI discrepancies.
+
+6. A customer reports that the website is very slow while browsing certain categories. What kind of performance testing or diagnostics would you perform?
+Purpose: Tests the candidate's understanding of performance testing and how they would approach issues related to slow website performance (e.g., server load, database queries, large images, third-party scripts).

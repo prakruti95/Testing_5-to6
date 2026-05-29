@@ -1,0 +1,8 @@
+7. A user is reporting an issue with their address not being accepted during checkout. How would you troubleshoot this?
+Purpose: Assesses the candidate’s ability to diagnose form validation or input issues, such as incorrect address formatting or backend validation problems.
+
+8. A customer is unable to find a specific product on the website despite it being available in the backend. What steps would you take to investigate?
+Purpose: Tests the candidate's ability to check for issues like search index updates, filters, category settings, or product visibility settings in the backend.
+
+9. A customer is complaining that they received an incorrect product or a damaged item. How would you approach troubleshooting this issue?
+Purpose: Evaluates the candidate's approach to investigating order fulfillment issues, inventory management, shipping errors, and communication with warehouse or logistics teams.
