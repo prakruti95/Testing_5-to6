@@ -36,7 +36,7 @@ JOINS:
 2) LEFT JOIN
 3) RIGHT JOIN
 4) FULL JOIN
-
+SELECT * FROM location JOIN products ON location.lid = products.id
 SELECT * FROM location LEFT JOIN products ON location.lid = products.id
 UNION
 SELECT * FROM location RIGHT JOIN products ON location.lid = products.id
